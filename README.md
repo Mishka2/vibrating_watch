@@ -7,7 +7,7 @@ Here's the circuit diagram of my watch:
 
 <br />
 <br />
-<br />
-Here's some information about my project:
 
+Here's some information about my project:
+<br />
 <div style="align:center"><img src="https://github.com/Mishka2/vibrating_watch/blob/master/display_poster.png" /></div>
